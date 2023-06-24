@@ -76,14 +76,15 @@ const Projects = () => {
                                     <img className='rounded-[10px] h-[100%] w-[100%] lg:h-[450px] lg:w-[550px] ' src={Ecomerce} alt='Ecommerce' />
                                     <div className='md:ml-8 '>
                                         <h1 className='text-[25px] lg:text-[35px] font-[600] mb-[10px] mt-[20px] md:mt-[0px]'>Ecommerce Hub</h1>
-                                        <p className='text-[16px] lg:text-[18px] font-[400] mb-[10px]'>• This is an Ecommerce project where we have implemented full-fledged Ecommerce functionalities. We developed this project using the MERN stack. Below, I describe some of the functionalities of this project.
+                                        <p className='text-[16px] lg:text-[18px] font-[400] mb-[10px]'>• This is an Ecommerce project where we have implemented all the functionalities of a website
                                         </p>
-                                        <p className='text-[16px] lg:text-[18px] font-[400] mb-[20px]'>• The project includes user authentication such as login and signup. It also has two views, one for the users and another for the admin. The admin can add products and view statistics, while the users can buy products by placing orders at their given address. Additionally, the project includes payment integration with PayPal or credit card.</p>
-                                        <p className='text-[16px] lg:text-[18px] font-[400]'><span className='text-[16px] lg:text-[18px] font-[600]'>Tech :</span> React.js, Node.js, Express.js, mongo Db</p>
+                                        <p className='text-[16px] lg:text-[18px] font-[400] mb-[20px]'>• The project includes user authentication such as login and signup. it includes of search based on input and fully funtional cart where user can add ,update and delete .</p>
+                                        <p className='text-[16px] lg:text-[18px] font-[400]'><span className='text-[16px] lg:text-[18px] font-[600]'>Tech :</span> React.js, django,DJANGO REST API</p>
 
-                                        <div className='grid grid-cols-1 mt-[30px]'>
-                                            <a className='box_shadow lg:w-[200px] text-[#fd7014] flex items-center cursor-pointer' href='https://github.com/munnokd/Ecommerce-HUB' alt="" target='_blank' rel="noreferrer"><SiGithub className='mr-[10px]' color='black' />Github</a>
-                                        </div>
+                                        <div className='grid grid-cols-1 mt-[30px]' style={{display:"flex"}}>
+                                            {/* <a className='box_shadow lg:w-[200px] text-[#fd7014] flex items-center cursor-pointer' href='https://github.com/vam244/backend_ecommerce.git' alt="" target='_blank' rel="noreferrer"><SiGithub className='mr-[10px]' color='black' />backend</a>
+                                            <a className='box_shadow lg:w-[200px] text-[#fd7014] flex items-center cursor-pointer' href='https://github.com/vam244/frontend_ecommerce.git' alt="" target='_blank' rel="noreferrer"><SiGithub className='mr-[10px]' color='black' />frontend</a>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
