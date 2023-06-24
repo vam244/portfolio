@@ -83,8 +83,8 @@ const Projects = () => {
 
                                         <div className='grid grid-cols-1 mt-[30px]' style={{display:"flex"}}>
                                             {/* <a className='box_shadow lg:w-[200px] text-[#fd7014] flex items-center cursor-pointer' href='https://github.com/vam244/backend_ecommerce.git' alt="" target='_blank' rel="noreferrer"><SiGithub className='mr-[10px]' color='black' />backend</a>
-                                            <a className='box_shadow lg:w-[200px] text-[#fd7014] flex items-center cursor-pointer' href='https://github.com/vam244/frontend_ecommerce.git' alt="" target='_blank' rel="noreferrer"><SiGithub className='mr-[10px]' color='black' />frontend</a>
-                                        </div> */}
+                                            <a className='box_shadow lg:w-[200px] text-[#fd7014] flex items-center cursor-pointer' href='https://github.com/vam244/frontend_ecommerce.git' alt="" target='_blank' rel="noreferrer"><SiGithub className='mr-[10px]' color='black' />frontend</a>*/}
+                                        </div> 
                                     </div>
                                 </div>
                             </div>
