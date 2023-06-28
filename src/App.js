@@ -18,7 +18,7 @@ function App() {
         <AboutMe />
         <Technology />
         <Experience />
-        {/* <Projects /> */}
+        <Projects />
         <SnackbarProvider>
           <Contacts />
         </SnackbarProvider>
