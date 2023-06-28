@@ -111,7 +111,7 @@ const Projects = () => {
                                 <div className=' mt-[10px] grid grid-cols-1 md:grid-cols-2'>
                                     <img className='rounded-[10px] h-[100%] w-[100%] lg:h-[450px] lg:w-[550px] ' src={aud} alt='Ecommerce' />
                                     <div className='md:ml-8 '>
-                                        <h1 className='text-[25px] lg:text-[35px] font-[600] mb-[10px] mt-[20px] md:mt-[0px]'>Tesla UI</h1>
+                                        <h1 className='text-[25px] lg:text-[35px] font-[600] mb-[10px] mt-[20px] md:mt-[0px]'>IEEE audtion</h1>
                                         <p className='text-[16px] lg:text-[18px] font-[400] mb-[10px]'>• I contributed  in the making of the audtion website by additing validation feature to it to avoid incomplete entries.
                                         </p>
                                         <p className='text-[16px] lg:text-[18px] font-[400]'><span className='text-[16px] lg:text-[18px] font-[600]'>Tech :</span> React.js, Html, Javascript, Css, firebase</p>
