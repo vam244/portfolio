@@ -26,7 +26,7 @@ const Experience = () => {
                     <div className='box_shadow rounded-[10px] mx-0 sm:mx-5 mb-[50px] p-[30px]'>
                         <h1 className='text-[20px] sm:text-[25px] font-bold mb-[10px]'>SustainMall </h1>
                         <h6 className='text-[20px] sm:text-[25px] font-bold mb-[10px]'>role: web developer</h6>
-                        <p className='text-[14px] sm:text-[17px]'>worked on the main website of the company by contributing to 3 features namealy cart,search and footer and the made 60% of the old website </p>
+                        <p className='text-[14px] sm:text-[17px]'>worked on the new website of the company by contributing to 3 features namely cart,search and footer and  made 50% of the  website for companies expansion into online grocery market </p>
                     </div>
                     <br/>
                     <div className='box_shadow rounded-[10px] mx-0 sm:mx-5 mb-[50px] p-[30px]'>
