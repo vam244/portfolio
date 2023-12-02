@@ -45,7 +45,7 @@ const Experience = () => {
                     </div>
                     <br/>
                     <div className='box_shadow rounded-[10px] mx-0 sm:mx-5 mb-[30px] p-[30px]'>
-                        <h1 className='text-[20px] sm:text-[25px] font-bold mb-[10px]'>early Education</h1>
+                        <h1 className='text-[20px] sm:text-[25px] font-bold mb-[10px]'>school Education</h1>
                             <div className='flex justify-between'>
                             <p className='text-[15px] sm:text-[18px]'>Delhi public school,visakhapatnam</p>
                             <p className='text-[15px] sm:text-[18px]'>2009-2019</p>
