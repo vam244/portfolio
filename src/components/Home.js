@@ -14,7 +14,7 @@ const Home = () => {
                     </Slide>
                     <Slide top>
                         <div className='bg-lb flex mt-10'>
-                            <a href='https://drive.google.com/file/d/17flgiA19YtrMwHK4aCOgujFxDh1Yh1xJ/view?usp=sharing' target='_blank' rel="noreferrer" className='bg-nav text-midnight font-[500] mr-3 w-[50%] bg-midnight-800 text-white px-3 py-2 rounded-sm hover:cursor-pointer text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300' >Resume</a>
+                            <a href='https://drive.google.com/file/d/1fXq6UYGSAf-liZS58cIYmloiL3iI4lH8/view?usp=sharing' target='_blank' rel="noreferrer" className='bg-nav text-midnight font-[500] mr-3 w-[50%] bg-midnight-800 text-white px-3 py-2 rounded-sm hover:cursor-pointer text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300' >Resume</a>
                             <a href='https://github.com/vam244' target='_blank' rel="noreferrer" className='bg-nav text-midnight  font-[500] ml-3 w-[50%] bg-gray-800 text-white px-3 py-2 rounded-sm hover:cursor-pointer text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300' >Github</a>
                         </div>
                     </Slide>
